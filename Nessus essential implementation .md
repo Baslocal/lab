@@ -11,16 +11,16 @@ Things needs
 -Nessus essential 
 -Scope for the scan (IP range)
 Steps
-1.     Created a new scan in Nessus.
-a.     Went to Policies > New Policy.
-b.     Selected Credentialed Patch Audit as the policy type.
-c.     Entered a name for the policy.
+1. Created a new scan in Nessus.
+a. Went to Policies > New Policy.
+b. Selected Credentialed Patch Audit as the policy type.
+c. Entered a name for the policy.
 
 ![unknown](https://github.com/Baslocal/lab/assets/155853534/e301a90c-fca1-470e-9d33-c95223f55230)
-2.     Configured the scan settings.
-A.    Selected the Scan Targets tab. Added the IP range for the scan Windows and Linux systems it wanted to target
-B.    Configured the credentials for Linux and Windows
-C.     Selected the Credentials tab.
+2.Configured the scan settings.
+A.Selected the Scan Targets tab. Added the IP range for the scan Windows and Linux systems it wanted to target
+B.Configured the credentials for Linux and Windows
+C.Selected the Credentials tab.
 
 ![unknown](https://github.com/Baslocal/lab/assets/155853534/58f7e8c5-644d-46b1-9828-9988a405818c)
 Before
